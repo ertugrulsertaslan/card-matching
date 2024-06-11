@@ -4,27 +4,25 @@ Card Matching is a card matching game where users try to match identical cards.
 
 ## Features 🌟
 
-- User-friendly interface
-- Shuffling of cards
-- Matching and scoring system
+- 🌟🖥️ User-friendly interface
+- 🔀🃏 Shuffling of cards
+- 🎯🏆 Matching and scoring system
 
 
 ## Technologies Used 💻
 
-This project uses a number of open source projects to work properly:
-
-- [React.js](https://reactjs.org/) - JS library for crafting user interfaces
-- [Vite](https://vitejs.dev/) - Module bundler
-- [Tailwind CSS](https://tailwindcss.com/) - A utility-first CSS framework
-- [Netlify](https://www.netlify.com/) - Hosting service for static web apps
+- 💻 [React.js](https://reactjs.org/) - JS library for crafting user interfaces
+- 📦 [Vite](https://vitejs.dev/) - Module bundler
+- 🎨 [Tailwind CSS](https://tailwindcss.com/) - A utility-first CSS framework
+- 🌐 [Netlify](https://www.netlify.com/) - Hosting service for static web apps
 
 
 ## Install & Build 🔧
 
 Prerequisites
 
-- Install Node.js
-- Clone the repo
+- Install Node.js ⚙️
+- Clone the repo 🔄
 
 📦 After cloning the repo install dependecies with
 
@@ -41,6 +39,7 @@ Prerequisites
  ```sh 
   npm run build
 ```
+after running scripts go to `http://localhost:5173` with your browser to use the app. 🌐
 
   ## Demo  🌐
  [card-matching-app.netlify.app](https://card-matching-app.netlify.app) 
