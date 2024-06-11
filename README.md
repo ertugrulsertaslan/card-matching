@@ -54,6 +54,6 @@ after running scripts go to `http://localhost:5173` with your browser to use the
 
 
 
-## License
+## License 📄
 
 [MIT](https://choosealicense.com/licenses/mit/)
