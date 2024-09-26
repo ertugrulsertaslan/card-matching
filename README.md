@@ -2,6 +2,17 @@
 
 Card Matching is a card matching game where users try to match identical cards.
 
+  ## Demo  🌐
+ [card-matching-app.netlify.app](https://card-matching-app.netlify.app) 
+
+
+## Screenshots 📸
+<div style="display: flex; flex-direction: row;">
+    <img src="screenshots/cardmatching1.png" alt="Home Page" style="width: 35%; margin-right: 4%;">
+    <img src="screenshots/cardmatchingwin1.png" alt="win" style="width: 35%;">
+</div>
+
+
 ## Features 🌟
 
 - 🌟🖥️ User-friendly interface
@@ -41,15 +52,7 @@ Prerequisites
 ```
 after running scripts go to `http://localhost:5173` with your browser to use the app. 🌐
 
-  ## Demo  🌐
- [card-matching-app.netlify.app](https://card-matching-app.netlify.app) 
 
-
-## Screenshots 📸
-<div style="display: flex; flex-direction: row;">
-    <img src="screenshots/cardmatching1.png" alt="Home Page" style="width: 35%; margin-right: 4%;">
-    <img src="screenshots/cardmatchingwin1.png" alt="win" style="width: 35%;">
-</div>
 
 
 
